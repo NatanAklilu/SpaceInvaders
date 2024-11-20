@@ -1,0 +1,2 @@
+We added an alien explosion animation and a lives counter that will be displayed
+on the top of the screen.
