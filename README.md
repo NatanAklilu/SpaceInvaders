@@ -6,7 +6,7 @@ To run the game, execute the command python space-invaders just outside the spac
 
 # Journey through the game
 
-## Starting
+## Starting the game
 When you first run the command to start the game, you will find this screen:
 
 <img src="Images/starting_screen.png" width="500"/>
