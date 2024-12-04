@@ -6,20 +6,22 @@ To run the game, execute the command python space-invaders just outside the spac
 
 # Journey through the game
 
-### When you first run the command to start the game, you will find this screen:
+## Starting
+When you first run the command to start the game, you will find this screen:
 
 <img src="Images/starting_screen.png" width="500"/>
 
-### If you press "s", you will find yourself at this screen:
+If you press "s", you will find yourself at this screen:
 
 <img src="Images/start_of_game.png" width="500"/>
 
-### You are the ship and the goal of the game is to shoot all of the aliens before they reach the line. You move with the left and right arrow keys and shoot with "space bar". The alien horde is also shooting lasers down at random every second. If a laser hits the ship, you lose a life and you only have 3 lives. If you run out of lives or the aliens reach you before shooting all of them, then you see the following screen:
+## Goal of the game
+You are the ship and the goal of the game is to shoot all of the aliens before they reach the line. You move with the left and right arrow keys and shoot with "space bar". The alien horde is also shooting lasers down at random every second. If a laser hits the ship, you lose a life and you only have 3 lives. If you run out of lives or the aliens reach you before shooting all of them, then you see the following screen:
 
 <img src="Images/game_over.png" width="500"/>
 
-### If you manage to destroy all the aliens, then you win and see this screen!
+If you manage to destroy all the aliens, then you win and see this screen!
 
 <img src="Images/victory.png" width="500"/>
 
-### I hope you enjoy my version of this arcade classic!
+## I hope you enjoy my version of this arcade classic!
