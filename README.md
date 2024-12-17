@@ -18,8 +18,8 @@ If you press "s", you will find yourself at this screen:
 ## Goal of the game
 You are the ship and the goal of the game is to shoot all of the aliens before they reach the line. You move with the left and right arrow keys and shoot with "space bar". The alien horde is also shooting lasers down at random every second. If a laser hits the ship, you lose a life and you only have 3 lives. See an alien elimination in the image on the left and losing a life on the image to the right:
 
-<p style="text-align: center;"><img src="images/alien_destroyed.png" width="250"/></p>
-<p style="text-align: center;"><img src="images/ship_destroyed.png" width="250"/></p>
+<p style="text-align: center;"><img src="Images/alien_destroyed.png" width="250"/></p>
+<p style="text-align: center;"><img src="Images/ship_destroyed.png" width="250"/></p>
 
 If you run out of lives or the aliens reach you before shooting all of them, then you see the following screen:
 
